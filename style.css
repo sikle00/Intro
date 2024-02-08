@@ -1,0 +1,74 @@
+#audun {
+    height: 250px;
+    margin-top: -90px;
+    margin-left: 280px;
+    border-radius: 100%;
+}
+#audun2 {
+    height: 200px;
+    margin-top: -250px;
+    margin-left: 250px;
+    border-radius: 100%;
+    display: flex;
+    opacity: 0%;
+}
+#audun3 {
+    height: 250px;
+    margin-top: -204px;
+    margin-left: 300px;
+    border-radius: 100%;
+    display: flex;
+    opacity: 0%;
+}
+#intro {
+    background-color: red;
+    width: 320px;
+}
+#gaming {
+    background-color: red;
+    width: 320px;
+}
+#skiskyting {
+    background-color: red;
+    width: 320px;
+}
+#jakt {
+    background-color: red;
+    width: 320px;
+}
+#fiske {
+    background-color: red;
+    width: 320px;
+}
+#color {
+    margin-left: 10px;
+    height: 100px;
+}
+#red {
+    margin-left: 10px;
+    height: 100px;
+}
+#changePic {
+    margin-left: 10px;
+    margin-top: 15px;
+    height: 25px;
+    display: flex;
+    text-align: center;
+    font-size: larger;
+}
+#changePic1 {
+    margin-left: 10px;
+    margin-top: 15px;
+    height: 25px;
+    display: flex;
+    text-align: center;
+    font-size: larger;
+}
+#changePic2 {
+    margin-left: 10px;
+    margin-top: 15px;
+    height: 25px;
+    display: flex;
+    text-align: center;
+    font-size: larger;
+}
