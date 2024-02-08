@@ -72,3 +72,8 @@
     text-align: center;
     font-size: larger;
 }
+.page {
+    background-color: rgb(0, 0, 48);
+    height: 939px;
+    width: 2000px;
+}
